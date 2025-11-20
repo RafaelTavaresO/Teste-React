@@ -51,7 +51,7 @@ function App() {
       setTasks(data);
     };
 
-    fetchTasks();
+    //fetchTasks();
   }, []);
 
   return (
